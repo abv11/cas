@@ -1,105 +1,243 @@
-# Cigarettes After Sex - Website
+# Cigarettes After Sex — Website
 
-Um site moderno e melancólico sobre a banda Cigarettes After Sex, com design P&B e tema escuro elegante.
+Um website atmosférico e minimalista inspirado na estética melancólica da banda Cigarettes After Sex.
+O projeto foi desenvolvido com HTML, CSS e JavaScript puro, focando em uma experiência visual elegante, responsiva e imersiva.
 
-## 📋 Estrutura do Projeto
+---
 
-- **index.html** - Página inicial
-- **sobre.html** - Informações sobre a banda
-- **discografia.html** - Álbuns e singles
-- **contato.html** - Links para redes sociais
-- **styles.css** - Estilos do site
-- **script.js** - Funcionalidades JavaScript (menu hamburger, interações)
+## 🌑 Conceito
 
-## 🖼️ Como Adicionar Imagens
+O site busca traduzir visualmente a sensação transmitida pelas músicas da banda:
 
-O site foi preparado para receber imagens dos álbuns e singles. Siga os passos abaixo:
+* atmosfera etérea;
+* minimalismo monocromático;
+* romantização melancólica;
+* estética dream pop / slowcore;
+* sensação de silêncio, madrugada e intimidade.
 
-### Imagens dos Álbuns
+Todo o design foi construído utilizando contrastes suaves entre preto, branco e tons de cinza, criando uma identidade visual cinematográfica e emocional.
 
-Na página **discografia.html**, encontre as seções dos álbuns:
+---
 
-```html
-<img src="URL_DA_IMAGEM" alt="Capa do álbum" />
-```
+## 📁 Estrutura do Projeto
 
-Substitua `URL_DA_IMAGEM` por:
-- URL completa: `https://exemplo.com/imagem.jpg`
-- Caminho local: `imagens/cigarettes-after-sex.jpg`
-
-### Imagens dos Singles
-
-Na página **discografia.html**, encontre a seção de singles:
-
-```html
-<img src="" alt="Capa de Affection" class="single-image" />
-```
-
-Faça o mesmo procedimento acima.
-
-### Imagem do Álbum na Página Inicial
-
-Na página **index.html**, na seção "Álbum Mais Recente":
-
-```html
-<img src="" alt="Capa do álbum X's" />
-```
-
-## 🎨 Estrutura de Pastas Recomendada
-
-```
-cas/
+```bash
+cas-website/
+│
 ├── index.html
 ├── sobre.html
 ├── discografia.html
 ├── contato.html
+│
 ├── styles.css
 ├── script.js
-└── imagens/
-    ├── cigarettes-after-sex.jpg
-    ├── cry.jpg
-    ├── xs.jpg
-    ├── affection.jpg
-    ├── k.jpg
-    └── ... (outros singles)
+│
+├── instagram.png
+├── facebook.png
+├── spotify.png
+├── youtube.png
+├── twitter.png
+├── applemusic.png
+│
+├── Capa de Cigarettes After Sex.jpg
+├── Capa de Cry.jpg
+├── Capa de X_s.jpg
+├── Capa de K.jpg
+├── Capa de I..jpg
+├── Capa de Affection.jpg
+├── Capa de Romans (13 9).jpg
+│
+└── README.md
 ```
 
-## 🌙 Design
+---
 
-- **Fundo:** Cinza escuro (#1a1a1a)
-- **Cores primárias:** Preto e branco
-- **Acentos:** Cinza (#2a2a2a, #3a3a3a)
-- **Estilo:** Minimalista e melancólico
+## 🖥️ Páginas
+
+### 🏠 Home (`index.html`)
+
+A página inicial apresenta:
+
+* hero section cinematográfica;
+* introdução à banda;
+* origem e estilo musical;
+* destaque para o álbum mais recente;
+* footer com redes sociais.
+
+### 📖 Sobre (`sobre.html`)
+
+Página dedicada à história da banda:
+
+* formação;
+* influências musicais;
+* identidade sonora;
+* trajetória artística;
+* impacto cultural.
+
+### 💿 Discografia (`discografia.html`)
+
+Seção completa contendo:
+
+* álbuns de estúdio;
+* EPs;
+* lançamentos antigos;
+* singles em ordem cronológica;
+* descrições detalhadas;
+* capas dos projetos.
+
+### 🌐 Contato (`contato.html`)
+
+Central de conexões externas:
+
+* Instagram;
+* Spotify;
+* YouTube;
+* Apple Music;
+* Facebook;
+* X/Twitter;
+* site oficial.
+
+---
+
+## 🎨 Design Visual
+
+### Paleta
+
+| Cor            | Hex       |
+| -------------- | --------- |
+| Preto profundo | `#0d0d0d` |
+| Cinza escuro   | `#1a1a1a` |
+| Cinza médio    | `#2c2c2c` |
+| Branco suave   | `#f5f5f5` |
+
+---
+
+## ✨ Características Visuais
+
+* design minimalista;
+* estética noir;
+* animações suaves;
+* hover effects discretos;
+* tipografia limpa;
+* visual inspirado em capas analógicas e fotografia noturna;
+* foco em atmosfera emocional.
+
+---
 
 ## 📱 Responsividade
 
-O site é totalmente responsivo:
-- Desktop: Layout completo com menu horizontal
-- Tablet: Layout adaptado
-- Mobile: Menu hamburger (3 barrinhas)
+O website é totalmente responsivo.
 
-## 🧭 Navegação
+### Desktop
 
-Menu com links para:
-- Início
-- Sobre
-- Discografia
-- Contato (redes sociais)
+* layout em grid;
+* navegação horizontal;
+* seções amplas e cinematográficas.
 
-## 🔧 Funcionalidades
+### Tablet
 
-- Menu hamburger funcional
-- Transições suaves
-- Efeitos hover elegantes
-- Tema escuro ao longo de todo o site
-- Suporte a imagens em capas de álbuns e singles
+* reorganização automática dos elementos;
+* espaçamento adaptado.
 
-## 📝 Notas
+### Mobile
 
-Todas as seções com imagem possuem `src=""` vazio. Preencha com suas imagens conforme necessário.
+* menu hamburger funcional;
+* imagens ajustadas;
+* grids convertidos em coluna única.
 
-As imagens podem ser em formatos: JPG, PNG, WebP, etc.
+---
 
-Tamanhos recomendados:
-- Álbuns: 200x200px mínimo
-- Singles: 150x150px mínimo
+## ⚙️ Funcionalidades
+
+### ✅ Implementadas
+
+* menu hamburger responsivo;
+* transições suaves;
+* cards interativos;
+* hover animations;
+* layout adaptável;
+* integração com redes sociais;
+* favicon personalizado;
+* organização modular de páginas.
+
+### 🧠 JavaScript (`script.js`)
+
+Responsável por:
+
+* abrir/fechar menu mobile;
+* animações simples;
+* interações de navegação;
+* melhoria da experiência do usuário.
+
+---
+
+## 🖼️ Imagens
+
+As imagens utilizadas no projeto são capas de álbuns, EPs e singles da banda.
+
+### Formatos suportados
+
+* JPG
+* PNG
+* WebP
+
+### Recomendações
+
+| Tipo           | Tamanho recomendado |
+| -------------- | ------------------- |
+| Álbum          | 500x500px           |
+| Single         | 300x300px           |
+| Ícones sociais | 40x40px             |
+
+---
+
+## 🌌 Experiência Pretendida
+
+O objetivo não foi apenas criar um “site informativo”, mas transmitir a sensação emocional da música da banda através do design.
+
+O projeto tenta recriar visualmente:
+
+* madrugadas silenciosas;
+* romance melancólico;
+* nostalgia;
+* solidão confortável;
+* intimidade emocional.
+
+---
+
+## 🔗 Redes Oficiais
+
+* [Site Oficial de Cigarettes After Sex](https://www.cigarettesaftersex.com/?utm_source=chatgpt.com)
+* [Instagram Oficial](https://www.instagram.com/cigsaftersex/?utm_source=chatgpt.com)
+* [Spotify Oficial](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj?utm_source=chatgpt.com)
+* [YouTube Oficial](https://www.youtube.com/@CigarettesAfterSexOfficial?utm_source=chatgpt.com)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+* Google Fonts
+
+---
+
+## 🚀 Possíveis Melhorias Futuras
+
+* player de músicas integrado;
+* animações parallax;
+* background em vídeo;
+* dark transitions dinâmicas;
+* página dedicada para letras;
+* modo “ambient” com efeitos sonoros;
+* integração com API do Spotify;
+* galeria visual da banda.
+
+---
+
+## 📄 Licença
+
+Projeto desenvolvido para fins educacionais e artísticos.
+
+Todos os direitos relacionados às músicas, capas e identidade da banda pertencem a Cigarettes After Sex e suas respectivas distribuidoras.

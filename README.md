@@ -232,7 +232,8 @@ O projeto tenta recriar visualmente:
 * página dedicada para letras;
 * modo “ambient” com efeitos sonoros;
 * integração com API do Spotify;
-* galeria visual da banda.
+* galeria visual da banda;
+* Deezer e AmazonMusic.
 
 ---
 

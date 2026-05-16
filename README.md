@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/logocaswhite.png" width="340">
+<img src="./img/logocaswhite.png" width="340">
 
 # Cigarettes After Sex • Música Etérea
 
@@ -70,6 +70,7 @@ abv11/
 ├── script.js
 │
 └── README.md
+```
 
 # ── 🎬 Arquitetura das Páginas ──
 

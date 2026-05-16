@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="CAS Logo" width="300px">
+  <img src="img/logocaswhite.png" alt="CAS Logo" width="300px">
 </p>
 
 ---

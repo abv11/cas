@@ -1,121 +1,99 @@
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+# 🪐 Cigarettes After Sex — Website
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <p align="center">
+    <em>"I've been waiting for you to turn around and say that you love me too..."</em>
+  </p>
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-0f172a?style=for-the-badge)
+  ![WCAG](https://img.shields.io/badge/WCAG-Accessible-green?style=for-the-badge)
+  ![Performance](https://img.shields.io/badge/Rendering-GPU%20Aware-blueviolet?style=for-the-badge)
+  ![Aesthetic](https://img.shields.io/badge/Aesthetic-Dream%20Pop-black?style=for-the-badge)
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-0f172a?style=for-the-badge)
-
-![WCAG](https://img.shields.io/badge/WCAG-Accessible-green?style=for-the-badge)
-
-![Performance](https://img.shields.io/badge/Rendering-GPU%20Aware-blueviolet?style=for-the-badge)
-
-![Aesthetic](https://img.shields.io/badge/Aesthetic-Dream%20Pop-black?style=for-the-badge)
-
----
-
-# Cigarettes After Sex — Website
-
-Um website atmosférico e minimalista inspirado na estética melancólica da banda Cigarettes After Sex.
-
-O projeto foi desenvolvido com **HTML5, CSS3 e JavaScript puro**, focando em uma experiência visual cinematográfica, responsiva e imersiva, utilizando recursos modernos de renderização visual, gradientes, profundidade e composição gráfica nativa do CSS.
+<p align="center">
+  <img src="https://githubusercontent.com" alt="CAS Logo" width="300px">
+</p>
 
 ---
 
-![Preview](img/casbanner.jpg)
+## 🌫️ Sobre o Projeto
+
+Um website atmosférico, imersivo e minimalista feito especialmente como um presente. O projeto é totalmente inspirado na estética melancólica e romântica da banda **Cigarettes After Sex**.
+
+Desenvolvido com **HTML5, CSS3 e JavaScript puro**, a interface foca em entregar uma experiência visual cinematográfica e responsiva. O código utiliza recursos modernos de renderização visual, gradientes sutis, profundidade e composição gráfica nativa para criar um clima de intimidade e calmaria.
 
 ---
 
-# 🌑 Conceito
+## 🖤 `01.` O Conceito • *Cry Later*
 
-O site busca traduzir visualmente a sensação transmitida pelas músicas da banda:
+O site busca traduzir visualmente o som etéreo, lento e analógico da banda. Cada linha de código foi pensada para refletir:
 
-* atmosfera etérea;
-* minimalismo monocromático;
-* romantização melancólica;
-* estética dream pop / slowcore;
-* sensação de silêncio, madrugada e intimidade.
+* **🌌 Atmosfera Eterea:** Sensação de flutuar no espaço.
+* **🌑 Minimalismo Monocromático:** Onde o preto e o branco dizem tudo.
+* **🥀 Romantização Melancólica:** A beleza que existe na saudade e no amor.
+* **🌙 Estética Slowcore:** O ritmo desacelerado das madrugadas em claro.
+* **🎙️ Intimidade:** O eco de uma voz sussurrada no escuro.
 
-Toda a interface foi construída utilizando contrastes suaves entre preto, branco e tons de cinza, criando uma identidade visual cinematográfica inspirada em fotografia analógica, baixa iluminação e capas de álbuns noir.
-
----
-
-# 🎨 Design Visual & Renderização CSS
-
-O CSS moderno não atua apenas como estilização superficial.
-
-Neste projeto, ele participa diretamente de:
-
-* experiência do usuário fluida;
-* hierarquia visual cinematográfica;
-* acessibilidade digital;
-* percepção estética emocional;
-* profundidade visual;
-* identidade visual consistente;
-* performance de renderização.
+A interface foi construída utilizando contrastes suaves, inspirada em fotografia analógica, grãos de cinema e capas de álbuns *noir*.
 
 ---
 
-# 🎨 Sistema de Cores
+## 🎨 `02.` Design Visual & Renderização
 
-O projeto utiliza uma paleta minimalista baseada em contraste suave e profundidade tonal.
+Aqui, o CSS moderno não atua apenas como estilização superficial. Ele é o diretor de fotografia dessa experiência digital, garantindo:
 
-| Cor            | Hex       |
-| -------------- | --------- |
-| Preto profundo | `#0d0d0d` |
-| Cinza escuro   | `#1a1a1a` |
-| Cinza médio    | `#2c2c2c` |
-| Branco suave   | `#f5f5f5` |
-
-Além de HEX e RGB, o projeto explora conceitos modernos de composição visual inspirados em:
-
-* HSL;
-* gradientes perceptuais;
-* iluminação suave;
-* transparência;
-* contraste atmosférico.
+* **🕯️ Imersão Emocional:** Percepção estética que conversa com o sentimento do usuário.
+* **🎬 Texturas Cinematográficas:** Hierarquia visual sutil e sombras suaves.
+* **⚡ Fluidez Absoluta:** Performance de renderização otimizada via hardware (GPU Aware).
+* **🌐 Inclusão:** Acessibilidade digital (WCAG) para que a experiência seja de todos.
 
 ---
 
-# ✨ Características Visuais
+## 🔲 `03.` Sistema de Cores • *Neon Moon*
 
-* design minimalista;
-* estética noir;
-* atmosfera dream pop;
-* sombras suaves e profundidade;
-* efeitos de blur e glow;
-* hover effects discretos;
-* animações lentas e suaves;
-* composição monocromática;
-* tipografia limpa;
-* visual inspirado em cinema analógico e fotografia noturna.
+A paleta de cores é um manifesto minimalista baseado em contraste suave e profundidade tonal, simulando a iluminação de um quarto escuro.
+
+
+| Tom | Identidade | Hex |
+| :---: | :--- | :---: |
+| ⬛ | **Preto Profundo** (O céu da meia-noite) | `#0d0d0d` |
+| 🪨 | **Cinza Escuro** (A fumaça e as sombras) | `#1a1a1a` |
+| 🌫️ | **Cinza Médio** (O asfalto molhado) | `#2c2c2c` |
+| 🧻 | **Branco Suave** (A luz do luar) | `#f5f5f5` |
+
+O projeto rejeita cores estáticas e explora conceitos modernos de composição visual baseados em **HSL**, gradientes perceptuais, transparências e iluminação difusa.
 
 ---
 
-# 🌌 Gradientes e Atmosfera Visual
+## ✨ `04.` Detalhes Atmosféricos
 
-O projeto utiliza gradientes modernos para criar profundidade e sensação cinematográfica.
+* Animações extremamente lentas, suaves e quase imperceptíveis.
+* Efeitos discretos de *hover* que simulam o acender de um cigarro no escuro.
+* Filtros de *blur* (desfoque) e *glow* (brilho) nativos.
+* Tipografia limpa, elegante e espaçada.
+* Design totalmente focado no conceito *Mobile First*.
 
-### Recursos utilizados
+---
 
-* `linear-gradient()`
-* `radial-gradient()`
-* overlays escuros;
-* iluminação difusa;
-* composição em camadas.
+## 🌌 `05.` Fotografia Procedural (Gradientes)
 
-Os gradientes funcionam como imagens procedurais renderizadas diretamente pelo navegador, permitindo criar efeitos ricos sem depender de imagens pesadas externas.
+O projeto utiliza gradientes avançados para criar profundidade sem a necessidade de carregar imagens pesadas de fundo. O navegador renderiza a própria luz do ambiente através do código:
 
 ```css
-body{
+body {
   background:
-  radial-gradient(circle at top,
-  rgba(255,255,255,0.08),
-  transparent 40%),
-
-  linear-gradient(
-  180deg,
-  #0d0d0d,
-  #111111,
-  #1a1a1a);
+    radial-gradient(circle at top, rgba(255, 255, 255, 0.08), transparent 40%),
+    linear-gradient(180deg, #0d0d0d, #111111, #1a1a1a);
 }
+```
+
+---
+
+<div align="center">
+  <p><i>"K. — Designed with love, slowness and dream pop."</i></p>
+  <span>🖤</span>
+</div>

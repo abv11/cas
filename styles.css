@@ -84,9 +84,9 @@ a:hover {
 }
 
 img {
-  width: 2160px;
-  height: 250px;
-  object-fit: cover; /* Isso corta a imagem para preencher o espaço sem espremer */
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 
@@ -237,6 +237,20 @@ img {
     margin: 0 auto;
     animation: fadeInUp 1s ease 0.4s both;
 }
+
+.hero-logo {
+    max-width: 90%;      /* Evita que ela encoste nas bordas em telas de celular */
+    width: 550px;        /* Defina aqui a largura ideal que você quer para a logo na tela */
+    height: auto;        /* Garante que a proporção original do PNG se mantenha perfeita */
+    margin: 0 auto 2rem; /* Centraliza a imagem e adiciona um espaço antes da linha divisória */
+    display: block;
+}
+
+/* Ajuste opcional para sumir com os tamanhos gigantes de texto antigos da tela se necessário */
+.hero-title, .hero-subtitle {
+    display: none; 
+}
+
 
 /* ==================== FEATURED SECTION ==================== */
 

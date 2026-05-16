@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/banner.png" alt="Banner Cigarettes After Sex">
+<img src="banner.png" alt="Banner Cigarettes After Sex">
 
 <br>
 <br>

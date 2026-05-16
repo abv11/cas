@@ -1,4 +1,5 @@
-<p align="center">
+<div align="center">
+<p>
   <img src="img/logocaswhite.png" width="340">
 </p>
 

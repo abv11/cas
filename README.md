@@ -22,7 +22,7 @@ O projeto foi desenvolvido com **HTML5, CSS3 e JavaScript puro**, focando em uma
 
 ---
 
-![Preview](img/casbanner.png)
+![Preview](img/casbanner.jpg)
 
 ---
 

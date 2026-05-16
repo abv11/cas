@@ -210,24 +210,24 @@ img {
     color: #ffffff;
     padding: 2rem;
     z-index: 2;
+    width: 100%;
 }
 
-.hero-title {
-    font-size: 5rem;
-    font-weight: 200;
-    letter-spacing: 2px;
-    margin-bottom: 1rem;
-    text-transform: uppercase;
-    animation: fadeInUp 1s ease;
+/* CONFIGURAÇÃO COMPLETA DA SUA LOGO CENTRALIZADA */
+.hero-logo {
+    max-width: 85%;
+    width: 550px;
+    height: auto;
+    margin: 0 auto 1.5rem;
+    display: block;
 }
 
 .hero-subtitle {
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     font-weight: 300;
     letter-spacing: 2px;
     margin-bottom: 2rem;
     color: rgba(255, 255, 255, 0.85);
-    animation: fadeInUp 1s ease 0.2s both;
 }
 
 .hero-divider {
@@ -235,22 +235,7 @@ img {
     height: 2px;
     background-color: rgba(255, 255, 255, 0.6);
     margin: 0 auto;
-    animation: fadeInUp 1s ease 0.4s both;
 }
-
-.hero-logo {
-    max-width: 90%;      /* Evita que ela encoste nas bordas em telas de celular */
-    width: 550px;        /* Defina aqui a largura ideal que você quer para a logo na tela */
-    height: auto;        /* Garante que a proporção original do PNG se mantenha perfeita */
-    margin: 0 auto 2rem; /* Centraliza a imagem e adiciona um espaço antes da linha divisória */
-    display: block;
-}
-
-/* Ajuste opcional para sumir com os tamanhos gigantes de texto antigos da tela se necessário */
-.hero-title, .hero-subtitle {
-    display: none; 
-}
-
 
 /* ==================== FEATURED SECTION ==================== */
 

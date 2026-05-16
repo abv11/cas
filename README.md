@@ -1,6 +1,6 @@
 <div align="center">
-<p>
-  <img src="img/logocaswhite.png" width="340">
+<p align="center">
+  <img src="./img/logocaswhite.png" width="340">
 </p>
 
 # Cigarettes After Sex • Música Etérea

@@ -5,17 +5,21 @@
     <em>"I've been waiting for you to turn around and say that you love me too..."</em>
   </p>
   
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-0f172a?style=for-the-badge)
-  ![WCAG](https://img.shields.io/badge/WCAG-Accessible-green?style=for-the-badge)
-  ![Performance](https://img.shields.io/badge/Rendering-GPU%20Aware-blueviolet?style=for-the-badge)
-  ![Aesthetic](https://img.shields.io/badge/Aesthetic-Dream%20Pop-black?style=for-the-badge)
+  ![HTML5](https://shields.io)
+  ![CSS3](https://shields.io)
+  ![JavaScript](https://shields.io)
+  ![Responsive](https://shields.io)
+  ![WCAG](https://shields.io)
+  ![Performance](https://shields.io)
+  ![Aesthetic](https://shields.io)
 </div>
 
 <p align="center">
-  <img src="img/logocaswhite.png" alt="CAS Logo" width="300px">
+  <img src="img/casbanner.jpg" alt="Cigarettes After Sex Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="img/logocaswhite.png" alt="CAS Logo" width="220px">
 </p>
 
 ---

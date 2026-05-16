@@ -1,105 +1,72 @@
-# 🪐 Cigarettes After Sex — Website
-
 <div align="center">
-  <p><em>"I've been waiting for you to turn around and say that you love me too..."</em></p>
 
-  <!-- Badges em HTML Puro -->
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="Responsive">
-  <img src="https://shields.io" alt="WCAG">
-  <img src="https://shields.io" alt="Performance">
-  <img src="https://shields.io" alt="Aesthetic">
+<img src="img/logocaswhite.png" width="340">
 
-  <br><br>
+# Cigarettes After Sex • Música Etérea
 
-  <!-- Banner Principal -->
-  <img src="img/casbanner.jpg" alt="Cigarettes After Sex Banner" width="100%">
+### Um estudo visual e estrutural sobre minimalismo digital, dream pop e arquitetura front-end em HTML, CSS e JavaScript puro.
 
-  <br><br>
+<br>
 
-  <!-- Logo Branca -->
-  <img src="img/logocaswhite.png" alt="CAS Logo" width="220px">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Responsive](https://img.shields.io/badge/Responsive-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white)
+
+![IFPE](https://img.shields.io/badge/IFPE-Técnico_Integrado-006600?style=for-the-badge)
+
 </div>
 
 ---
 
-## 🌫️ Sobre o Projeto
+# ── 🌑 Sobre o Projeto ──
 
-Um website atmosférico, imersivo e minimalista feito especialmente como um presente. O projeto é totalmente inspirado na estética melancólica e romântica da banda **Cigarettes After Sex**.
+Este projeto foi desenvolvido como um site informativo e visualmente atmosférico dedicado à banda **Cigarettes After Sex**, utilizando exclusivamente tecnologias fundamentais da web:
 
-Desenvolvido com **HTML5, CSS3 e JavaScript puro**, a interface foca em entregar uma experiência visual cinematográfica e responsiva. O código utiliza recursos modernos de renderização visual, gradientes sutis, profundidade e composição gráfica nativa para criar um clima de intimidade e calmaria.
+- HTML5
+- CSS3
+- JavaScript puro (Vanilla JS)
 
----
+A proposta central foi construir uma experiência digital cinematográfica inspirada na estética noir, no movimento slowcore/dream pop e na identidade minimalista da banda.
 
-## 🖤 `01.` O Conceito • *Cry Later*
+Ao invés de utilizar frameworks prontos, toda a estrutura foi escrita manualmente, priorizando:
 
-O site busca traduzir visualmente o som etéreo, lento e analógico da banda. Cada linha de código foi pensada para refletir:
+- organização semântica;
+- responsividade;
+- acessibilidade visual;
+- leveza de renderização;
+- consistência tipográfica;
+- composição monocromática;
+- controle refinado de layout e estados visuais.
 
-* **🌌 Atmosfera Eterea:** Sensação de flutuar no espaço.
-* **🌑 Minimalismo Monocromático:** Onde o preto e o branco dizem tudo.
-* **🥀 Romantização Melancólica:** A beleza que existe na saudade e no amor.
-* **🌙 Estética Slowcore:** O ritmo desacelerado das madrugadas em claro.
-* **🎙️ Intimidade:** O eco de uma voz sussurrada no escuro.
-
-A interface foi construída utilizando contrastes suaves, inspirada em fotografia analógica, grãos de cinema e capas de álbuns *noir*.
-
----
-
-## 🎨 `02.` Design Visual & Renderização
-
-Aqui, o CSS moderno não atua apenas como estilização superficial. Ele é o diretor de fotografia dessa experiência digital, garantindo:
-
-* **🕯️ Imersão Emocional:** Percepção estética que conversa com o sentimento do usuário.
-* **🎬 Texturas Cinematográficas:** Hierarquia visual sutil e sombras suaves.
-* **⚡ Fluidez Absoluta:** Performance de renderização otimizada via hardware (GPU Aware).
-* **🌐 Inclusão:** Acessibilidade digital (WCAG) para que a experiência seja de todos.
+O resultado é um ambiente digital silencioso, escuro e contemplativo.  
+Cada seção foi projetada para funcionar como extensão visual da atmosfera sonora de *Cry*, *Apocalypse*, *K.* e *X’s*.
 
 ---
 
-## 🔲 `03.` Sistema de Cores • *Neon Moon*
+# ── 💨 Estrutura do Repositório ──
 
-A paleta de cores é um manifesto minimalista baseado em contraste suave e profundidade tonal, simulando a iluminação de um quarto escuro.
-
-
-
-| Tom | Identidade | Hex |
-| :---: | :--- | :---: |
-| ⬛ | **Preto Profundo** (O céu da meia-noite) | `#0d0d0d` |
-| 🪨 | **Cinza Escuro** (A fumaça e as sombras) | `#1a1a1a` |
-| 🌫️ | **Cinza Médio** (O asfalto molhado) | `#2c2c2c` |
-| 🧻 | **Branco Suave** (A luz do luar) | `#f5f5f5` |
-
-O projeto rejeita cores estáticas e explora conceitos modernos de composição visual baseados em **HSL**, gradientes perceptuais, transparências e iluminação difusa.
-
----
-
-## ✨ `04.` Detalhes Atmosféricos
-
-* Animações extremamente lentas, suaves e quase imperceptíveis.
-* Efeitos discretos de *hover* que simulam o acender de um cigarro no escuro.
-* Filtros de *blur* (desfoque) e *glow* (brilho) nativos.
-* Tipografia limpa, elegante e espaçada.
-* Design totalmente focado no conceito *Mobile First*.
-
----
-
-## 🌌 `05.` Fotografia Procedural (Gradientes)
-
-O projeto utiliza gradientes avançados para criar profundidade sem a necessidade de carregar imagens pesadas de fundo. O navegador renderiza a própria luz do ambiente através do código:
-
-```css
-body {
-  background:
-    radial-gradient(circle at top, rgba(255, 255, 255, 0.08), transparent 40%),
-    linear-gradient(180deg, #0d0d0d, #111111, #1a1a1a);
-}
-```
-
----
-
-<div align="center">
-  <p><i>"K. — Designed with love, slowness and dream pop."</i></p>
-  <span>🖤</span>
-</div>
+```bash
+abv11/
+│
+├── img/
+│   ├── logocaswhite.png
+│   ├── Capa de Cry.jpg
+│   ├── Capa de X_s.jpg
+│   ├── spotify.png
+│   └── ...
+│
+├── index.html
+├── sobre.html
+├── discografia.html
+├── contato.html
+│
+├── styles.css
+├── script.js
+│
+└── README.md

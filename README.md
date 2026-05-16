@@ -1,4 +1,3 @@
-Vou te entregar um README pensado exatamente como professor rígido de IF gosta: documentação técnica impecável + identidade visual forte + escrita madura + organização profissional de repositório + atmosfera autoral sem parecer “texto de IA”.
 
 ````md
 <div align="center">

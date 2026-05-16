@@ -1,11 +1,32 @@
-# Cigarettes After Sex — Website
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Um website atmosférico e minimalista inspirado na estética melancólica da banda Cigarettes After Sex.
-O projeto foi desenvolvido com HTML, CSS e JavaScript puro, focando em uma experiência visual elegante, responsiva e imersiva.
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-0f172a?style=for-the-badge)
+
+![WCAG](https://img.shields.io/badge/WCAG-Accessible-green?style=for-the-badge)
+
+![Performance](https://img.shields.io/badge/Rendering-GPU%20Aware-blueviolet?style=for-the-badge)
+
+![Aesthetic](https://img.shields.io/badge/Aesthetic-Dream%20Pop-black?style=for-the-badge)
 
 ---
 
-## 🌑 Conceito
+# Cigarettes After Sex — Website
+
+Um website atmosférico e minimalista inspirado na estética melancólica da banda Cigarettes After Sex.
+
+O projeto foi desenvolvido com **HTML5, CSS3 e JavaScript puro**, focando em uma experiência visual cinematográfica, responsiva e imersiva, utilizando recursos modernos de renderização visual, gradientes, profundidade e composição gráfica nativa do CSS.
+
+---
+
+![Preview](img/casbanner.png)
+
+---
+
+# 🌑 Conceito
 
 O site busca traduzir visualmente a sensação transmitida pelas músicas da banda:
 
@@ -15,93 +36,29 @@ O site busca traduzir visualmente a sensação transmitida pelas músicas da ban
 * estética dream pop / slowcore;
 * sensação de silêncio, madrugada e intimidade.
 
-Todo o design foi construído utilizando contrastes suaves entre preto, branco e tons de cinza, criando uma identidade visual cinematográfica e emocional.
+Toda a interface foi construída utilizando contrastes suaves entre preto, branco e tons de cinza, criando uma identidade visual cinematográfica inspirada em fotografia analógica, baixa iluminação e capas de álbuns noir.
 
 ---
 
-## 📁 Estrutura do Projeto
+# 🎨 Design Visual & Renderização CSS
 
-```bash
-cas-website/
-│
-├── index.html
-├── sobre.html
-├── discografia.html
-├── contato.html
-│
-├── styles.css
-├── script.js
-│
-├── instagram.png
-├── facebook.png
-├── spotify.png
-├── youtube.png
-├── twitter.png
-├── applemusic.png
-│
-├── Capa de Cigarettes After Sex.jpg
-├── Capa de Cry.jpg
-├── Capa de X_s.jpg
-├── Capa de K.jpg
-├── Capa de I..jpg
-├── Capa de Affection.jpg
-├── Capa de Romans (13 9).jpg
-│
-└── README.md
-```
+O CSS moderno não atua apenas como estilização superficial.
+
+Neste projeto, ele participa diretamente de:
+
+* experiência do usuário fluida;
+* hierarquia visual cinematográfica;
+* acessibilidade digital;
+* percepção estética emocional;
+* profundidade visual;
+* identidade visual consistente;
+* performance de renderização.
 
 ---
 
-## 🖥️ Páginas
+# 🎨 Sistema de Cores
 
-### 🏠 Home (`index.html`)
-
-A página inicial apresenta:
-
-* hero section cinematográfica;
-* introdução à banda;
-* origem e estilo musical;
-* destaque para o álbum mais recente;
-* footer com redes sociais.
-
-### 📖 Sobre (`sobre.html`)
-
-Página dedicada à história da banda:
-
-* formação;
-* influências musicais;
-* identidade sonora;
-* trajetória artística;
-* impacto cultural.
-
-### 💿 Discografia (`discografia.html`)
-
-Seção completa contendo:
-
-* álbuns de estúdio;
-* EPs;
-* lançamentos antigos;
-* singles em ordem cronológica;
-* descrições detalhadas;
-* capas dos projetos.
-
-### 🌐 Contato (`contato.html`)
-
-Central de conexões externas:
-
-* Instagram;
-* Spotify;
-* YouTube;
-* Apple Music;
-* Facebook;
-* X/Twitter;
-* site oficial.
-
----
-
-## 🎨 Design Visual
-
-### Paleta
+O projeto utiliza uma paleta minimalista baseada em contraste suave e profundidade tonal.
 
 | Cor            | Hex       |
 | -------------- | --------- |
@@ -110,135 +67,55 @@ Central de conexões externas:
 | Cinza médio    | `#2c2c2c` |
 | Branco suave   | `#f5f5f5` |
 
+Além de HEX e RGB, o projeto explora conceitos modernos de composição visual inspirados em:
+
+* HSL;
+* gradientes perceptuais;
+* iluminação suave;
+* transparência;
+* contraste atmosférico.
+
 ---
 
-## ✨ Características Visuais
+# ✨ Características Visuais
 
 * design minimalista;
 * estética noir;
-* animações suaves;
+* atmosfera dream pop;
+* sombras suaves e profundidade;
+* efeitos de blur e glow;
 * hover effects discretos;
+* animações lentas e suaves;
+* composição monocromática;
 * tipografia limpa;
-* visual inspirado em capas analógicas e fotografia noturna;
-* foco em atmosfera emocional.
+* visual inspirado em cinema analógico e fotografia noturna.
 
 ---
 
-## 📱 Responsividade
+# 🌌 Gradientes e Atmosfera Visual
 
-O website é totalmente responsivo.
+O projeto utiliza gradientes modernos para criar profundidade e sensação cinematográfica.
 
-### Desktop
+### Recursos utilizados
 
-* layout em grid;
-* navegação horizontal;
-* seções amplas e cinematográficas.
+* `linear-gradient()`
+* `radial-gradient()`
+* overlays escuros;
+* iluminação difusa;
+* composição em camadas.
 
-### Tablet
+Os gradientes funcionam como imagens procedurais renderizadas diretamente pelo navegador, permitindo criar efeitos ricos sem depender de imagens pesadas externas.
 
-* reorganização automática dos elementos;
-* espaçamento adaptado.
+```css
+body{
+  background:
+  radial-gradient(circle at top,
+  rgba(255,255,255,0.08),
+  transparent 40%),
 
-### Mobile
-
-* menu hamburger funcional;
-* imagens ajustadas;
-* grids convertidos em coluna única.
-
----
-
-## ⚙️ Funcionalidades
-
-### ✅ Implementadas
-
-* menu hamburger responsivo;
-* transições suaves;
-* cards interativos;
-* hover animations;
-* layout adaptável;
-* integração com redes sociais;
-* favicon personalizado;
-* organização modular de páginas.
-
-### 🧠 JavaScript (`script.js`)
-
-Responsável por:
-
-* abrir/fechar menu mobile;
-* animações simples;
-* interações de navegação;
-* melhoria da experiência do usuário.
-
----
-
-## 🖼️ Imagens
-
-As imagens utilizadas no projeto são capas de álbuns, EPs e singles da banda.
-
-### Formatos suportados
-
-* JPG
-* PNG
-* WebP
-
-### Recomendações
-
-| Tipo           | Tamanho recomendado |
-| -------------- | ------------------- |
-| Álbum          | 500x500px           |
-| Single         | 300x300px           |
-| Ícones sociais | 40x40px             |
-
----
-
-## 🌌 Experiência Pretendida
-
-O objetivo não foi apenas criar um “site informativo”, mas transmitir a sensação emocional da música da banda através do design.
-
-O projeto tenta recriar visualmente:
-
-* madrugadas silenciosas;
-* romance melancólico;
-* nostalgia;
-* solidão confortável;
-* intimidade emocional.
-
----
-
-## 🔗 Redes Oficiais
-
-* [Site Oficial de Cigarettes After Sex](https://www.cigarettesaftersex.com/?utm_source=chatgpt.com)
-* [Instagram Oficial](https://www.instagram.com/cigsaftersex/?utm_source=chatgpt.com)
-* [Spotify Oficial](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj?utm_source=chatgpt.com)
-* [YouTube Oficial](https://www.youtube.com/@CigarettesAfterSexOfficial?utm_source=chatgpt.com)
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-* HTML5
-* CSS3
-* JavaScript
-* Google Fonts
-
----
-
-## 🚀 Possíveis Melhorias Futuras
-
-* player de músicas integrado;
-* animações parallax;
-* background em vídeo;
-* dark transitions dinâmicas;
-* página dedicada para letras;
-* modo “ambient” com efeitos sonoros;
-* integração com API do Spotify;
-* galeria visual da banda;
-* Deezer e AmazonMusic.
-
----
-
-## 📄 Licença
-
-Projeto desenvolvido para fins educacionais e artísticos.
-
-Todos os direitos relacionados às músicas, capas e identidade da banda pertencem a Cigarettes After Sex e suas respectivas distribuidoras.
+  linear-gradient(
+  180deg,
+  #0d0d0d,
+  #111111,
+  #1a1a1a);
+}

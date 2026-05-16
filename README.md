@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<img src="img/logocaswhite.png" width="340" alt="Logo Cigarettes After Sex">
+<img src="ChatGPT Image 16 de mai. de 2026, 15_10_00.png" width="340" alt="Logo Cigarettes After Sex">
 <br>
 
 ### Um estudo visual e estrutural sobre minimalismo digital, dream pop e arquitetura front-end em HTML, CSS e JavaScript puro.

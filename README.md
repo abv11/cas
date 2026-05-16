@@ -344,4 +344,4 @@ Projeto desenvolvido como estudo visual, estrutural e atmosférico sobre front-e
 *"Nothing's gonna hurt you baby..."*
 
 </div>
-```
+

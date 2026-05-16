@@ -8,7 +8,6 @@
 
 <img src="img/logocaswhite.png" width="340" alt="Logo Cigarettes After Sex">
 <br>
-### Cigarettes After Sex • Música Etérea
 
 ### Um estudo visual e estrutural sobre minimalismo digital, dream pop e arquitetura front-end em HTML, CSS e JavaScript puro.
 

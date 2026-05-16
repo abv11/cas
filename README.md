@@ -1,26 +1,27 @@
 # 🪐 Cigarettes After Sex — Website
 
 <div align="center">
-  <p align="center">
-    <em>"I've been waiting for you to turn around and say that you love me too..."</em>
-  </p>
-  
-  ![HTML5](https://shields.io)
-  ![CSS3](https://shields.io)
-  ![JavaScript](https://shields.io)
-  ![Responsive](https://shields.io)
-  ![WCAG](https://shields.io)
-  ![Performance](https://shields.io)
-  ![Aesthetic](https://shields.io)
-</div>
+  <p><em>"I've been waiting for you to turn around and say that you love me too..."</em></p>
 
-<p align="center">
+  <!-- Badges em HTML Puro -->
+  <img src="https://shields.io" alt="HTML5">
+  <img src="https://shields.io" alt="CSS3">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io" alt="Responsive">
+  <img src="https://shields.io" alt="WCAG">
+  <img src="https://shields.io" alt="Performance">
+  <img src="https://shields.io" alt="Aesthetic">
+
+  <br><br>
+
+  <!-- Banner Principal -->
   <img src="img/casbanner.jpg" alt="Cigarettes After Sex Banner" width="100%">
-</p>
 
-<p align="center">
+  <br><br>
+
+  <!-- Logo Branca -->
   <img src="img/logocaswhite.png" alt="CAS Logo" width="220px">
-</p>
+</div>
 
 ---
 
@@ -60,6 +61,7 @@ Aqui, o CSS moderno não atua apenas como estilização superficial. Ele é o di
 ## 🔲 `03.` Sistema de Cores • *Neon Moon*
 
 A paleta de cores é um manifesto minimalista baseado em contraste suave e profundidade tonal, simulando a iluminação de um quarto escuro.
+
 
 
 | Tom | Identidade | Hex |

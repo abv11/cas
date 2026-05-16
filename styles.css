@@ -83,6 +83,13 @@ a:hover {
     padding: 0 2rem;
 }
 
+img {
+  width: 2160px;
+  height: 250px;
+  object-fit: cover; /* Isso corta a imagem para preencher o espaço sem espremer */
+}
+
+
 /* ==================== NAVBAR ==================== */
 
 .navbar {

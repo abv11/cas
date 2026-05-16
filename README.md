@@ -1,5 +1,3 @@
-
-````md
 <div align="center">
 
 <img src="img/logocaswhite.png" width="340">
@@ -72,9 +70,6 @@ abv11/
 ├── script.js
 │
 └── README.md
-````
-
----
 
 # ── 🎬 Arquitetura das Páginas ──
 
